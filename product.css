@@ -1,9 +1,5 @@
 /* now for the media queries for the big screen*/
 @media screen and (max-width: 1400px) {
-  .fullDiv {
-    background: red;
-  }
-
   /* part two */
   .Transform {
     background-color: #e9f7ea;
@@ -186,9 +182,6 @@
 
 /* this is for the ipad */
 @media screen and (max-width: 1200px) {
-  .fullDiv {
-    background: orange;
-  }
   /* part two */
   .Transform {
     background-color: #e9f7ea;
@@ -371,12 +364,7 @@
     background: #d9d9d9;
   }
   /* this is checkout */
-  .full {
-    background: red;
-  }
-  .full {
-    background: orange;
-  }
+
   .space {
     margin: 5rem;
     background: #fff;
@@ -504,12 +492,7 @@
     color: #ff5c00;
   }
   /* this is for payment  */
-  .payment {
-    background: #f2f2f2;
-  }
-  .payment {
-    background: orange;
-  }
+
   .payment-infor {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -638,9 +621,6 @@
 
 /* this is for the ipad2 */
 @media screen and (max-width: 1000px) {
-  .fullDiv {
-    background: green;
-  }
   /* part two */
   .Transform {
     background-color: #e9f7ea;
@@ -835,18 +815,6 @@
   }
   /* this is checkout */
 
-  .full {
-    background: #d9d9d9;
-  }
-  .full {
-    background: #d9d9d9;
-  }
-  .full {
-    background: red;
-  }
-  .full {
-    background: green;
-  }
   .space {
     margin: 1rem;
     background: #fff;
@@ -961,12 +929,7 @@
     color: #ff5c00;
   }
   /* this is for payment  */
-  .payment {
-    background: #f2f2f2;
-  }
-  .payment {
-    background: green;
-  }
+
   .payment-infor {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -1094,9 +1057,6 @@
 }
 /* this is for the ipad2 */
 @media screen and (max-width: 850px) {
-  .fullDiv {
-    background: purple;
-  }
   /* part two */
   .Transform {
     background-color: #e9f7ea;
@@ -1289,13 +1249,7 @@
     color: #fff;
   }
   /* this is for checkout  */
-  .full {
-    background: #d9d9d9;
-  }
 
-  .full {
-    background: purple;
-  }
   .space {
     margin: 1rem;
     background: #fff;
@@ -1424,12 +1378,7 @@
     color: #ff5c00;
   }
   /* this is for payment  */
-  .payment {
-    background: #f2f2f2;
-  }
-  .payment {
-    background: purple;
-  }
+
   .payment-infor {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -1556,9 +1505,6 @@
   }
 }
 @media screen and (max-width: 700px) {
-  .fullDiv {
-    background: lime;
-  }
   /* part two */
   .Transform {
     background-color: #e9f7ea;
@@ -1765,12 +1711,7 @@
     color: #fff;
   }
   /* this is for checkout  */
-  .full {
-    background: #d9d9d9;
-  }
-  .full {
-    background: green;
-  }
+
   .space {
     margin: 1rem;
     background: #fff;
@@ -1900,12 +1841,7 @@
     color: #ff5c00;
   }
   /* this is for payment  */
-  .payment {
-    background: #f2f2f2;
-  }
-  .payment {
-    background: lime;
-  }
+
   .payment-infor {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -2032,9 +1968,6 @@
   }
 }
 @media screen and (max-width: 550px) {
-  .fullDiv {
-    background: rgb(212, 189, 189);
-  }
   /* part two */
   .drop-down-menu li a img {
     width: 20px;
@@ -2248,12 +2181,7 @@
     color: #fff;
   }
   /* this is for checkout  */
-  .full {
-    background: #d9d9d9;
-  }
-  .full {
-    background: blue;
-  }
+
   .space {
     margin: 1rem;
     background: #fff;
@@ -2383,9 +2311,7 @@
     color: #ff5c00;
   }
   /* this is for payment  */
-  .payment {
-    background: #f2f2f2;
-  }
+
   .payment-infor {
     display: grid;
     grid-template-columns: repeat(1, 1fr);

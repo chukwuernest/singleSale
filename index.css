@@ -489,6 +489,7 @@ a {
   text-decoration: none;
   list-style-type: none;
   display: inline;
+  color: #fff;
 }
 .payment-infor1 ul li:nth-child(1) {
   background: #384f46;
@@ -615,4 +616,14 @@ input::placeholder {
   color: red;
   margin: 5rem auto;
   padding: 2rem 5rem;
+}
+/* this is shop now */
+.welcome {
+  padding: 2rem 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.welcome h1 {
+  font-size: 3rem;
+  color: #bfb6ac;
 }
