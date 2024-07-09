@@ -29,6 +29,10 @@
 .header ul a {
   text-decoration: none;
 }
+.drop-down-menu li a {
+  display: none;
+}
+
 .drop-down-menu img {
   width: 10px;
 }
@@ -117,6 +121,7 @@ ul li.product {
   color: #384f46;
   display: flex;
   margin-left: 12rem;
+  display: none;
 }
 .show ul li.picked a {
   color: #ff5c00;
@@ -146,6 +151,7 @@ ul li.product {
 .display {
   display: flex;
   text-transform: capitalize;
+  padding-top: 2rem;
 }
 /* part four  A*/
 .catergories {
@@ -336,6 +342,11 @@ article img {
 /* this is for checkout */
 .full {
   background: #d9d9d9;
+}
+.active img {
+  color: #ff5c00;
+  background: #ff5c00;
+  padding: 0.01rem;
 }
 .space {
   margin: 5rem;
